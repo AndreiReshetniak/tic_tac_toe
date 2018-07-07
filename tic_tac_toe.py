@@ -1,4 +1,6 @@
-
+# Autor: Andrei Reshetniak
+# License: GNU GPL v. 3
+# 2018
 
 def branch_1(cell):
     print('Отладочная информация: переход на ветку 1.')
